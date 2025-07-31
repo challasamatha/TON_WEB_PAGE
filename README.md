@@ -2,7 +2,7 @@
 
 
 ## 🔗 Live Demo
-[Click here to view the deployed site](#)
+ton-web-page-git-main-challa-samatha-s-projects.vercel.app
 
 ## 🛠️ Tech Stack
 - HTML
